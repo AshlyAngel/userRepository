@@ -1,0 +1,8 @@
+{
+    "email_already_exist": "Email id already exist",
+    "user_creation_failed": "User creation failed",
+    "user_created": "user created",
+    "user_readed": "All users readed successfully",
+    "user_details_readed": "user details readed successfully",
+    "user_not_found": "user not found"
+}
